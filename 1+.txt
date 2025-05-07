@@ -362,9 +362,4 @@ CHC影迷电影,http://hzzzz530.com:4022/udp/239.69.1.241:11088
 淘娱乐,http://www.douzhicloud.site:35455/bptv/10000100000000050000000003887499.m3u8
 BTV-重温经典,http://www.douzhicloud.site:35455/bptv/10000100000000050000000003887494.m3u8
 萌宠TV,http://www.douzhicloud.site:35455/bptv/10000100000000050000000003887495.m3u8
-HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
-HBO2,http://185.236.229.62:9981/play/a05x
-HBO3,http://185.236.229.62:9981/play/a062
-HBOHiTS,http://108.181.20.197/livehttpplay?channel_id=20091
-动物世界,http://hc8q.x3322.net:35455/yy/1382743138
 直播中国,http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
