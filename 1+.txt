@@ -303,8 +303,9 @@ Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
-纬来体育HD,http://z.b.bkpcp.top/m.php?id=tvbwlty
+纬来体育HD,rtmp://9hv9.mine.nu/sat/tv721.flv
 纬来体育HD,rtmp://f13h.mine.nu/sat/tv721
+纬来体育HD,rtmp://60.248.77.83/sat/tv721
 台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 台湾番薯台,https://epg.pw/stream/51cb56342f39e6110b315b4d3c3391ef7b96e4b8cb91bd1e0670393a6da2755f.m3u8
 TAIWANPlus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
